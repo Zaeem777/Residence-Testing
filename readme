@@ -1,3 +1,6 @@
 # this is an important file and i will add special things regarding this project in this file
 
 
+# can not test inccorect credentials test on login page because playwright can not detect "alerts"
+
+# should add code to delete the newly created society so that database is not clustured. but i don't have access to super admin so for now i am leaving it 
